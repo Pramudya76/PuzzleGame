@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: 2558dcd45618a3840a342abe4c48fd5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8766938006996114381
+    second: "@SuMobai on \u5C0F\u7EA2\u4E66_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_0"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 576
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817f81cf996807f4bb3241de6027a645
+      internalID: -1775021032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_1"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 576
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e72fa0ddbc621a47940a620d13432d7
+      internalID: -1214248835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_2"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 576
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff3acaff1503ad45862bf2a2fedc2fa
+      internalID: 1884391994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_3"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 576
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b4b68e1f575334d88804fb3957ac42
+      internalID: 102789307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_4"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 436
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f66e45e75b774c4ca6746835c926afa
+      internalID: -81758150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_5"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 435
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686051ca806953d40a1f484461408ae9
+      internalID: 987373760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_6"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 436
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8465077362b48d4cb98ca105e7cb674
+      internalID: -2021029879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_7"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 436
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c9d2209e20c24193e4914842e037e
+      internalID: 1881719996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_8"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 296
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544e83813b1ec3478277946546ba6eb
+      internalID: 807661371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_9"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 296
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c67dcd0ea80cc04ab32f4597790ba37
+      internalID: -489941452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_10"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 296
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba496ae719df19243ac78143b08bbc57
+      internalID: 1134105034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_11"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 296
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49c9961cc0e48245b717f59149a0e46
+      internalID: 1718463712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_12"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 156
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04cd2dc54cbd36439029f874b5341bb
+      internalID: 1850649002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_13"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 156
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87a0bfdf41a2204ca89de39d1897c0c
+      internalID: -1315805502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_14"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 156
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e7dc5dc533a824db2e9ab7b5b964d4
+      internalID: -1887641987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_15"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 156
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab9d9e8aed5b734d8891cf97e9be157
+      internalID: -630322567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_16"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 16
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6188580e9b73134cbf915bad6ff509b
+      internalID: 1898575968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_17"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 16
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1104a3a85827784e86200384386f796
+      internalID: 1497916188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_18"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 16
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1d994bd40daac40aee96da37275ac2
+      internalID: -117786370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "@SuMobai on \u5C0F\u7EA2\u4E66_19"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 16
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c897f85fb9367f4d83e4d668b303058
+      internalID: 1674476221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 01a7b378d19539c4884a247699dce982
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "@SuMobai on \u5C0F\u7EA2\u4E66_0": -1775021032
+      "@SuMobai on \u5C0F\u7EA2\u4E66_1": -1214248835
+      "@SuMobai on \u5C0F\u7EA2\u4E66_10": 1134105034
+      "@SuMobai on \u5C0F\u7EA2\u4E66_11": 1718463712
+      "@SuMobai on \u5C0F\u7EA2\u4E66_12": 1850649002
+      "@SuMobai on \u5C0F\u7EA2\u4E66_13": -1315805502
+      "@SuMobai on \u5C0F\u7EA2\u4E66_14": -1887641987
+      "@SuMobai on \u5C0F\u7EA2\u4E66_15": -630322567
+      "@SuMobai on \u5C0F\u7EA2\u4E66_16": 1898575968
+      "@SuMobai on \u5C0F\u7EA2\u4E66_17": 1497916188
+      "@SuMobai on \u5C0F\u7EA2\u4E66_18": -117786370
+      "@SuMobai on \u5C0F\u7EA2\u4E66_19": 1674476221
+      "@SuMobai on \u5C0F\u7EA2\u4E66_2": 1884391994
+      "@SuMobai on \u5C0F\u7EA2\u4E66_3": 102789307
+      "@SuMobai on \u5C0F\u7EA2\u4E66_4": -81758150
+      "@SuMobai on \u5C0F\u7EA2\u4E66_5": 987373760
+      "@SuMobai on \u5C0F\u7EA2\u4E66_6": -2021029879
+      "@SuMobai on \u5C0F\u7EA2\u4E66_7": 1881719996
+      "@SuMobai on \u5C0F\u7EA2\u4E66_8": 807661371
+      "@SuMobai on \u5C0F\u7EA2\u4E66_9": -489941452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
