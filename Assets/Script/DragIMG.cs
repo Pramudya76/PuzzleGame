@@ -6,7 +6,10 @@ using UnityEngine.UI;
 
 public class DragIMG : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
+    public int pieceID;
     private Image image;
+    public bool inSlot;
+    public Transform ObjectBack;
     [HideInInspector] public Transform ParentAfterDrag;
     // Start is called before the first frame update
     void Start()
@@ -15,6 +18,7 @@ public class DragIMG : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragH
     }
     public void OnBeginDrag(PointerEventData eventData) {
         Debug.Log("Begin Drag");
+        inSlot = false;
         ParentAfterDrag = transform.parent;
         transform.SetParent(transform.root);
         transform.SetAsLastSibling();
@@ -26,7 +30,11 @@ public class DragIMG : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragH
     }
 
     public void OnEndDrag(PointerEventData eventData) {
-        transform.SetParent(ParentAfterDrag);
+        if(!inSlot) {
+            transform.SetParent(ObjectBack);
+        }else {
+            transform.SetParent(ParentAfterDrag);
+        }
         image.raycastTarget = true;
     }
 
