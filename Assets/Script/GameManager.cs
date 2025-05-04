@@ -5,7 +5,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public int totalCorrect = 0;
-    public int totalPiece = 20;
+    public int totalPiece;
     // Start is called before the first frame update
     void Start()
     {

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6fdf0494b9e13944f9d6d9b3ba9e2812
+guid: c1382e330f7e60d4f911476a0b6d43c5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1069334334979498452
-    second: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_0
+      213: 6938976942840922430
+    second: castorice honkaistarrail hsr_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,11 +113,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_0
+      name: castorice honkaistarrail hsr_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 799
+        x: 5
+        y: 982
         width: 240
         height: 240
       alignment: 0
@@ -127,18 +127,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7ced2e1a7a25d847b1390477d22c20f
-      internalID: -1691029726
+      spriteID: d59cd02a1eff998459b1a08a9de31cef
+      internalID: -2077591856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_1
+      name: castorice honkaistarrail hsr_1
       rect:
         serializedVersion: 2
-        x: 250
-        y: 799
+        x: 245
+        y: 982
         width: 240
         height: 240
       alignment: 0
@@ -148,18 +148,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f041a7ffa84ea24fbf98666af132feb
-      internalID: 1162560001
+      spriteID: d9d682c03e90bd8419d4418f622cef8f
+      internalID: -1109781567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_2
+      name: castorice honkaistarrail hsr_2
       rect:
         serializedVersion: 2
-        x: 490
-        y: 799
+        x: 485
+        y: 982
         width: 240
         height: 240
       alignment: 0
@@ -169,18 +169,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41f231368b8456843b327aa6c91558c4
-      internalID: 1418673711
+      spriteID: e8b5fc31ba76dd948b2bf47558a167d1
+      internalID: 81276616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_3
+      name: castorice honkaistarrail hsr_3
       rect:
         serializedVersion: 2
-        x: 10
-        y: 559
+        x: 5
+        y: 742
         width: 240
         height: 240
       alignment: 0
@@ -190,18 +190,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57417edcca30ad846997522078019054
-      internalID: -1462774428
+      spriteID: 5800f669c13c1144f95c4677ecb5ce4f
+      internalID: -1667295584
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_4
+      name: castorice honkaistarrail hsr_4
       rect:
         serializedVersion: 2
-        x: 250
-        y: 559
+        x: 245
+        y: 742
         width: 240
         height: 240
       alignment: 0
@@ -211,18 +211,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37a76c1e83bd7804d888d48b26c1d984
-      internalID: -2127010636
+      spriteID: a9eab6035be849d4080215583307043b
+      internalID: -244688820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_5
+      name: castorice honkaistarrail hsr_5
       rect:
         serializedVersion: 2
-        x: 490
-        y: 559
+        x: 485
+        y: 742
         width: 240
         height: 240
       alignment: 0
@@ -232,18 +232,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea443ac4592299f44b2ec421bb9396a9
-      internalID: 798549260
+      spriteID: 45ad15675ae4abb4ba8b94323d2d4ec4
+      internalID: -843999139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_6
+      name: castorice honkaistarrail hsr_6
       rect:
         serializedVersion: 2
-        x: 10
-        y: 319
+        x: 5
+        y: 502
         width: 240
         height: 240
       alignment: 0
@@ -253,18 +253,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae1ad2102ec75034d92975c09e33e4d2
-      internalID: -1494351984
+      spriteID: de26762e39969e8468d0e8902da74cdd
+      internalID: -1516121322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_7
+      name: castorice honkaistarrail hsr_7
       rect:
         serializedVersion: 2
-        x: 250
-        y: 319
+        x: 245
+        y: 502
         width: 240
         height: 240
       alignment: 0
@@ -274,18 +274,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53d2b5804745a7c4b94b59cdd50c8a6c
-      internalID: 476856463
+      spriteID: 3306bcc5f793c7442ad80f8c52e23d3b
+      internalID: 1747180231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_8
+      name: castorice honkaistarrail hsr_8
       rect:
         serializedVersion: 2
-        x: 490
-        y: 319
+        x: 485
+        y: 502
         width: 240
         height: 240
       alignment: 0
@@ -295,18 +295,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdfbb2b763c8066468900626cb46b709
-      internalID: -1603207097
+      spriteID: d6bb7b7162fbece4d8496420d955b1e9
+      internalID: -943247349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_9
+      name: castorice honkaistarrail hsr_9
       rect:
         serializedVersion: 2
-        x: 10
-        y: 79
+        x: 5
+        y: 262
         width: 240
         height: 240
       alignment: 0
@@ -316,18 +316,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da0aaa4220e3fc04a90c2d4356db9920
-      internalID: -1516638924
+      spriteID: 21bed1876325c82489a8bf49d1fd6737
+      internalID: 1737321785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_10
+      name: castorice honkaistarrail hsr_10
       rect:
         serializedVersion: 2
-        x: 250
-        y: 79
+        x: 245
+        y: 262
         width: 240
         height: 240
       alignment: 0
@@ -337,18 +337,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5fc72c336f379694a88f2dab86de0fd6
-      internalID: -1743538443
+      spriteID: 4a3e1d8c06cfc7b49b9c1d225b4ffa18
+      internalID: -1994175412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 6e9fc53e-03ed-44bf-a806-cf2370b7d630_11
+      name: castorice honkaistarrail hsr_11
       rect:
         serializedVersion: 2
-        x: 490
-        y: 79
+        x: 485
+        y: 262
         width: 240
         height: 240
       alignment: 0
@@ -358,8 +358,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48fea29297ba2d34f83f46a81d304826
-      internalID: -2035188737
+      spriteID: d3e1cdbbc653fd84c85fe6cfc48ab5db
+      internalID: -1104518507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castorice honkaistarrail hsr_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 22
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcf999bf3f0af44e9364d8c9a168d0d
+      internalID: 1706080175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castorice honkaistarrail hsr_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 22
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9334fb22909456c4d827b4cbd0bd9e3d
+      internalID: -1429914704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castorice honkaistarrail hsr_14
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 22
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d1d1e0da902ef43aceb002b5f9bef0
+      internalID: -1347022213
       vertices: []
       indices: 
       edges: []
@@ -367,7 +430,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: c6335d433a9791442ac87a837873baee
+    spriteID: de2c406d20d82ef41a38b188214795a0
     internalID: 0
     vertices: []
     indices: 
@@ -375,18 +438,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      6e9fc53e-03ed-44bf-a806-cf2370b7d630_0: -1691029726
-      6e9fc53e-03ed-44bf-a806-cf2370b7d630_1: 1162560001
-      6e9fc53e-03ed-44bf-a806-cf2370b7d630_10: -1743538443
-      6e9fc53e-03ed-44bf-a806-cf2370b7d630_11: -2035188737
-      6e9fc53e-03ed-44bf-a806-cf2370b7d630_2: 1418673711
-      6e9fc53e-03ed-44bf-a806-cf2370b7d630_3: -1462774428
-      6e9fc53e-03ed-44bf-a806-cf2370b7d630_4: -2127010636
-      6e9fc53e-03ed-44bf-a806-cf2370b7d630_5: 798549260
-      6e9fc53e-03ed-44bf-a806-cf2370b7d630_6: -1494351984
-      6e9fc53e-03ed-44bf-a806-cf2370b7d630_7: 476856463
-      6e9fc53e-03ed-44bf-a806-cf2370b7d630_8: -1603207097
-      6e9fc53e-03ed-44bf-a806-cf2370b7d630_9: -1516638924
+      castorice honkaistarrail hsr_0: -2077591856
+      castorice honkaistarrail hsr_1: -1109781567
+      castorice honkaistarrail hsr_10: -1994175412
+      castorice honkaistarrail hsr_11: -1104518507
+      castorice honkaistarrail hsr_12: 1706080175
+      castorice honkaistarrail hsr_13: -1429914704
+      castorice honkaistarrail hsr_14: -1347022213
+      castorice honkaistarrail hsr_2: 81276616
+      castorice honkaistarrail hsr_3: -1667295584
+      castorice honkaistarrail hsr_4: -244688820
+      castorice honkaistarrail hsr_5: -843999139
+      castorice honkaistarrail hsr_6: -1516121322
+      castorice honkaistarrail hsr_7: 1747180231
+      castorice honkaistarrail hsr_8: -943247349
+      castorice honkaistarrail hsr_9: 1737321785
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
