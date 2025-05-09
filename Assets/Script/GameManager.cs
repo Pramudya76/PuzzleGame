@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    public bool CompletedLevel;
+    //public bool CompletedLevel;
     public int totalCorrect = 0;
     public int totalPiece;
     // Start is called before the first frame update
@@ -24,7 +25,7 @@ public class GameManager : MonoBehaviour
         totalCorrect++;
         if(totalCorrect >= totalPiece) {
             string SceneName = SceneManager.GetActiveScene().name;
-            CompletedLevel = true;
+            //CompletedLevel = true;
             PlayerPrefs.SetInt(SceneName, 1);
             PlayerPrefs.Save();
             Debug.Log("Puzzle Terselesaikan");
@@ -33,6 +34,10 @@ public class GameManager : MonoBehaviour
 
     public void pieceWrongPlace(int index) {
         Debug.Log("Posisi Salah pd slot ke-" + index);
+    }
+
+    public void ChangeScene(string nameScene) {
+        SceneManager.LoadScene(nameScene);
     }
 
 
