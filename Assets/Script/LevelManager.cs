@@ -45,6 +45,8 @@ public class LevelManager : MonoBehaviour
                 });
             }else {
                 LevelButtons[a] = Instantiate(LevelLock, LevelButtons[a].transform.position, Quaternion.identity, ParentLocation);
+                TextMeshProUGUI buttonText = LevelButtons[a].GetComponentInChildren<TextMeshProUGUI>();
+                buttonText.text = "Lv " + index;
             }
 
         }
