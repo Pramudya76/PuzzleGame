@@ -10,6 +10,7 @@ public class DragIMG : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragH
     private Image image;
     public bool inSlot;
     public Transform ObjectBack;
+    [HideInInspector] public bool isLooked = false;
     [HideInInspector] public Transform ParentAfterDrag;
     // Start is called before the first frame update
     void Start()
@@ -17,6 +18,7 @@ public class DragIMG : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragH
         image = GetComponent<Image>();
     }
     public void OnBeginDrag(PointerEventData eventData) {
+        if(isLooked) return;
         Debug.Log("Begin Drag");
         inSlot = false;
         ParentAfterDrag = transform.parent;
@@ -26,6 +28,7 @@ public class DragIMG : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragH
     }
 
     public void OnDrag(PointerEventData eventData) {
+        if(isLooked) return;
         transform.position = Input.mousePosition;
     }
 
@@ -35,6 +38,7 @@ public class DragIMG : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragH
         }else {
             transform.SetParent(ParentAfterDrag);
         }
+        if(isLooked) return;
         image.raycastTarget = true;
     }
 

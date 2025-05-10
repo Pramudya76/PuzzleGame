@@ -21,6 +21,7 @@ public class PlacePictureSlot : MonoBehaviour, IDropHandler
             DragObject.transform.position = transform.position;
             dragIMG.inSlot = true;
             if(dragIMG.pieceID == slotID) {
+                dragIMG.isLooked = true;
                 GM.pieceCorrectPlace();
             }else {
                 GM.pieceWrongPlace(slotID);
