@@ -261,6 +261,7 @@ MonoBehaviour:
   pieceID: 1
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &5905457
 MonoBehaviour:
@@ -353,6 +354,7 @@ MonoBehaviour:
   pieceID: 19
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &26460778
 MonoBehaviour:
@@ -667,6 +669,7 @@ MonoBehaviour:
   pieceID: 2
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &119294256
 MonoBehaviour:
@@ -759,6 +762,7 @@ MonoBehaviour:
   pieceID: 8
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &148987262
 MonoBehaviour:
@@ -851,6 +855,7 @@ MonoBehaviour:
   pieceID: 11
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &195887032
 MonoBehaviour:
@@ -943,6 +948,7 @@ MonoBehaviour:
   pieceID: 4
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &275397065
 MonoBehaviour:
@@ -1035,6 +1041,7 @@ MonoBehaviour:
   pieceID: 5
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &316843111
 MonoBehaviour:
@@ -1394,6 +1401,7 @@ MonoBehaviour:
   pieceID: 6
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &359695153
 MonoBehaviour:
@@ -1711,6 +1719,7 @@ MonoBehaviour:
   pieceID: 3
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &384094511
 MonoBehaviour:
@@ -2070,6 +2079,7 @@ MonoBehaviour:
   pieceID: 9
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &462655703
 MonoBehaviour:
@@ -2418,6 +2428,7 @@ MonoBehaviour:
   pieceID: 21
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &689802471
 MonoBehaviour:
@@ -2688,6 +2699,7 @@ MonoBehaviour:
   pieceID: 10
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &857229499
 MonoBehaviour:
@@ -2864,6 +2876,7 @@ MonoBehaviour:
   pieceID: 17
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1015236200
 MonoBehaviour:
@@ -3388,6 +3401,149 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1153026728}
   m_CullTransparentMesh: 1
+--- !u!1 &1236716994
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1236716997}
+  - component: {fileID: 1236716996}
+  - component: {fileID: 1236716995}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1236716995
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1236716994}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 084218389f22a134ca0a2364dafa3796, type: 3}
+  m_Resource: {fileID: 8300000, guid: 084218389f22a134ca0a2364dafa3796, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &1236716996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1236716994}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602c39d3c181ed6428e73b3ae54e4980, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Music: {fileID: 1236716995}
+--- !u!4 &1236716997
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1236716994}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 392.54068, y: 145.40666, z: 1.6241072}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1239296578
 GameObject:
   m_ObjectHideFlags: 0
@@ -3441,6 +3597,7 @@ MonoBehaviour:
   pieceID: 14
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1239296581
 MonoBehaviour:
@@ -3533,6 +3690,7 @@ MonoBehaviour:
   pieceID: 20
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1250409852
 MonoBehaviour:
@@ -3625,6 +3783,7 @@ MonoBehaviour:
   pieceID: 16
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1268271356
 MonoBehaviour:
@@ -3806,6 +3965,7 @@ MonoBehaviour:
   pieceID: 15
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1418144538
 MonoBehaviour:
@@ -4064,6 +4224,7 @@ MonoBehaviour:
   pieceID: 7
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1692158600
 MonoBehaviour:
@@ -4156,6 +4317,7 @@ MonoBehaviour:
   pieceID: 12
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1713291253
 MonoBehaviour:
@@ -4248,6 +4410,7 @@ MonoBehaviour:
   pieceID: 23
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1809060202
 MonoBehaviour:
@@ -4565,6 +4728,7 @@ MonoBehaviour:
   pieceID: 13
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1875438965
 MonoBehaviour:
@@ -4749,6 +4913,7 @@ MonoBehaviour:
   pieceID: 24
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1901221238
 MonoBehaviour:
@@ -4841,6 +5006,7 @@ MonoBehaviour:
   pieceID: 22
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1908482776
 MonoBehaviour:
@@ -5392,6 +5558,7 @@ MonoBehaviour:
   pieceID: 18
   inSlot: 0
   ObjectBack: {fileID: 1103081963}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &2034016013
 MonoBehaviour:
@@ -5753,3 +5920,4 @@ SceneRoots:
   - {fileID: 1927629873}
   - {fileID: 1036314988}
   - {fileID: 1118504698}
+  - {fileID: 1236716997}

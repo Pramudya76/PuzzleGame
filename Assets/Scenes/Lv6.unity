@@ -549,6 +549,7 @@ MonoBehaviour:
   pieceID: 7
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &163839140
 MonoBehaviour:
@@ -955,6 +956,7 @@ MonoBehaviour:
   pieceID: 12
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &214108443
 MonoBehaviour:
@@ -1047,6 +1049,7 @@ MonoBehaviour:
   pieceID: 25
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &250682996
 MonoBehaviour:
@@ -1296,6 +1299,7 @@ MonoBehaviour:
   pieceID: 14
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &309353568
 MonoBehaviour:
@@ -1655,6 +1659,7 @@ MonoBehaviour:
   pieceID: 26
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &345169392
 MonoBehaviour:
@@ -1747,6 +1752,7 @@ MonoBehaviour:
   pieceID: 18
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &388702290
 MonoBehaviour:
@@ -2150,6 +2156,7 @@ MonoBehaviour:
   pieceID: 19
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &533949088
 MonoBehaviour:
@@ -2242,6 +2249,7 @@ MonoBehaviour:
   pieceID: 27
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &542783490
 MonoBehaviour:
@@ -2645,6 +2653,7 @@ MonoBehaviour:
   pieceID: 3
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &657112010
 MonoBehaviour:
@@ -3004,6 +3013,7 @@ MonoBehaviour:
   pieceID: 4
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &823820212
 MonoBehaviour:
@@ -3366,6 +3376,7 @@ MonoBehaviour:
   pieceID: 1
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &958963686
 MonoBehaviour:
@@ -3458,6 +3469,7 @@ MonoBehaviour:
   pieceID: 24
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &974376286
 MonoBehaviour:
@@ -3550,6 +3562,7 @@ MonoBehaviour:
   pieceID: 5
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &986246990
 MonoBehaviour:
@@ -3731,6 +3744,7 @@ MonoBehaviour:
   pieceID: 28
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1014043875
 MonoBehaviour:
@@ -3912,6 +3926,7 @@ MonoBehaviour:
   pieceID: 17
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1025199258
 MonoBehaviour:
@@ -4347,6 +4362,7 @@ MonoBehaviour:
   pieceID: 2
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1156022918
 MonoBehaviour:
@@ -4528,6 +4544,7 @@ MonoBehaviour:
   pieceID: 22
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1232609540
 MonoBehaviour:
@@ -4620,6 +4637,7 @@ MonoBehaviour:
   pieceID: 9
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1249242613
 MonoBehaviour:
@@ -4712,6 +4730,7 @@ MonoBehaviour:
   pieceID: 23
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1267200044
 MonoBehaviour:
@@ -4893,6 +4912,7 @@ MonoBehaviour:
   pieceID: 21
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1333574860
 MonoBehaviour:
@@ -5088,6 +5108,7 @@ MonoBehaviour:
   pieceID: 16
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1486104776
 MonoBehaviour:
@@ -5180,6 +5201,7 @@ MonoBehaviour:
   pieceID: 15
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1545025227
 MonoBehaviour:
@@ -5272,6 +5294,7 @@ MonoBehaviour:
   pieceID: 8
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1584047728
 MonoBehaviour:
@@ -5411,6 +5434,7 @@ MonoBehaviour:
   pieceID: 6
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1597477669
 MonoBehaviour:
@@ -5759,6 +5783,7 @@ MonoBehaviour:
   pieceID: 11
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1762119489
 MonoBehaviour:
@@ -5851,6 +5876,7 @@ MonoBehaviour:
   pieceID: 20
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1797380459
 MonoBehaviour:
@@ -6121,6 +6147,7 @@ MonoBehaviour:
   pieceID: 13
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &1969800563
 MonoBehaviour:
@@ -6213,6 +6240,7 @@ MonoBehaviour:
   pieceID: 10
   inSlot: 0
   ObjectBack: {fileID: 31791909}
+  isLooked: 0
   ParentAfterDrag: {fileID: 0}
 --- !u!114 &2038822138
 MonoBehaviour:
@@ -6477,6 +6505,149 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2073725219}
   m_CullTransparentMesh: 1
+--- !u!1 &2084857878
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2084857881}
+  - component: {fileID: 2084857880}
+  - component: {fileID: 2084857879}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &2084857879
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084857878}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 5658fcb59985ab041ad1ad605e0caf91, type: 3}
+  m_Resource: {fileID: 8300000, guid: 5658fcb59985ab041ad1ad605e0caf91, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &2084857880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084857878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602c39d3c181ed6428e73b3ae54e4980, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Music: {fileID: 2084857879}
+--- !u!4 &2084857881
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084857878}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 392.54068, y: 145.40666, z: 1.6241072}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -6485,3 +6656,4 @@ SceneRoots:
   - {fileID: 1342895451}
   - {fileID: 270539836}
   - {fileID: 1589151800}
+  - {fileID: 2084857881}
