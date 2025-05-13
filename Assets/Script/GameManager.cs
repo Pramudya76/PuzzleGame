@@ -51,5 +51,10 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(nextScene);
     }
 
+    public void RetryLevel() {
+        int nextScene = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(nextScene);
+    }
+
 
 }
