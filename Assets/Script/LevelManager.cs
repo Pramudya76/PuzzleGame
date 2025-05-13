@@ -12,6 +12,7 @@ public class LevelManager : MonoBehaviour
     public GameObject LevelUnlock;
     public GameObject LevelLock;
     public Transform ParentLocation;
+    
     // Start is called before the first frame update
     void Start()
     {
